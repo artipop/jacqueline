@@ -11,6 +11,8 @@
 
     <modules>
         <module>sunglasses</module>
+        <module>bootiful-lib</module>
+        <module>spacemn-lib</module>
     </modules>
 
     <properties>
